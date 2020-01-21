@@ -15,7 +15,7 @@ namespace Microsoft.MixedReality.Toolkit.Utilities.Editor
     public class MixedRealityEditorSettings : IActiveBuildTargetChanged
     {
         private const string SessionKey = "_MixedRealityToolkit_Editor_ShownSettingsPrompts";
-        private const string MSFT_AudioSpatializerPlugin = "MS HRTF Spatializer";
+        private const string MSFT_AudioSpatializerPlugin = "Microsoft Spatializer";
 
         public MixedRealityEditorSettings()
         {
